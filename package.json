@@ -1,0 +1,33 @@
+{
+  "name": "typescript-template",
+  "version": "0.0.0",
+  "description": "TypeScript Template",
+  "main": "./built/index.js",
+  "repository": {
+    "url": "https://github.com/AyaMorisawa/TypeScriptTemplate.git"
+  },
+  "scripts": {
+    "start": "node ./built/index.js",
+    "dtsm": "dtsm --insight false install",
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "lint": "gulp lint",
+	"test": "gulp test",
+	"clean": "gulp clean",
+    "clean-built": "gulp clean-build",
+    "clean-dep": "gulp clean-dep"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^2.0.2",
+    "dtsm": "^0.11.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-tslint": "^3.3.0",
+    "gulp-typescript": "^2.8.1",
+    "tslint": "^2.5.0",
+    "typescript": "^1.6.2",
+    "typescript-require": "^0.2.9"
+  },
+  "private": true
+}
