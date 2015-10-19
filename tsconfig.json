@@ -3,6 +3,9 @@
 	"compilerOptions": {
 		"noEmitOnError": true,
 		"noImplicitAny": true,
+		"declaration": true,
+		"moduleResolution": "node",
+		"newLine": "LF",
 		"sourceMap": false,
 		"target": "ES6",
 		"removeComments": true,
