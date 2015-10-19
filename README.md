@@ -2,7 +2,7 @@
 [![][travis-badge]][travis-link]
 
 ## How to build
-1. `git clone git://github.com/TypeScriptTemplate.git`
+1. `git clone git://github.com/AyaMorisawa/TypeScriptTemplate.git`
 2. `cd TypeScriptTemplate`
 3. `npm install`
 4. `npm run dtsm`
