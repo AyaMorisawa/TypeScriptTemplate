@@ -14,16 +14,16 @@
   },
   "dependencies": {
     "gulp/gulp.d.ts": {
-      "ref": "af5b8275d1f2b92738b93fddabc461fc20c553a1"
+      "ref": "aed176536a202b9a2475ce1989ea6d2d0226a185"
     },
     "gulp-typescript/gulp-typescript.d.ts": {
-      "ref": "af5b8275d1f2b92738b93fddabc461fc20c553a1"
+      "ref": "aed176536a202b9a2475ce1989ea6d2d0226a185"
     },
     "gulp-tslint/gulp-tslint.d.ts": {
-      "ref": "af5b8275d1f2b92738b93fddabc461fc20c553a1"
+      "ref": "aed176536a202b9a2475ce1989ea6d2d0226a185"
     },
     "merge2/merge2.d.ts": {
-      "ref": "af5b8275d1f2b92738b93fddabc461fc20c553a1"
+      "ref": "aed176536a202b9a2475ce1989ea6d2d0226a185"
     }
   }
 }
